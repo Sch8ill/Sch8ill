@@ -1,13 +1,13 @@
-# Hey there, fellow Gopher / Pythonista /  Codestealer / Bug creator 👋
+# Hey there, fellow Gopher / Pythonista /  Code stealer / Bug creator 👋
 
 ## About me
 
-- I'm currently learning Java
-- I'm addicted to open source
+- currently learning Java
+- addicted to open source
 
 ## My tools
-- Editors/IDEs: VSCode, Intellij, Pycharm, GoLand
-- WSL2 (Debain)
+- Editors/IDEs: vscode, Intellij, Pycharm
+- WSL (Debian)
 - Docker
 
 ## My Github stats
