@@ -2,11 +2,11 @@
 
 ## About me
 
-- currently learning Java
+- some german guy
 - addicted to open source
 
 ## My tools
-- Editors/IDEs: vscode, Intellij, Pycharm
+- Editors/IDEs: VScode, Intellij, Pycharm
 - WSL (Debian)
 - Docker
 
