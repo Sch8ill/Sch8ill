@@ -2,16 +2,14 @@
 
 ## About me
 
-- some german guy
-- addicted to open source
+- Just a guy from Germany
+- I enjoy open source
 
-## My tools
-- Editors/IDEs: VScode, Intellij, Pycharm
-- WSL (Debian)
-- Docker
+## Technologies I like
+- Languages: Go, Python, Java
+- Editors/IDEs: VSCode, Nvim, GoLand, PyCharm
+- OS: Debian
 
-## My Github stats
+## My GitHub stats
 [![Sch8ill's Github stats](https://github-readme-stats.vercel.app/api?username=sch8ill&count_private=true&theme=tokyonight&show_icons=true)](https://github.com/Sch8ill)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=sch8ill&theme=tokyonight)](https://github.com/Sch8ill)
-
-### You can contact me [here](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=sch8ill&theme=tokyonight)](https://github.com/Sch8ill)
